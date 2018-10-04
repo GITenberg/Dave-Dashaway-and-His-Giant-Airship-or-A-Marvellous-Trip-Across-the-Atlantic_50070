@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Dave Dashaway and His Giant Airship
 
   or, A Marvellous Trip Across the Atlantic'
